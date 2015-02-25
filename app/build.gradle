@@ -21,8 +21,9 @@ android {
 }
 
 dependencies {
-    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:21.0.3'
     compile files('libs/ThinkGear.jar')
     compile files('C:/Users/Andrei/AndroidStudioProjects/MyApplication/lib/ThinkGear.jar')
+    compile files('C:/Users/Dragos/Desktop/AndroidThinkGearProject/G5_MindWave/lib/ThinkGear.jar')
 }

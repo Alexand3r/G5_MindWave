@@ -7,7 +7,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.neurosky.thinkgear.TGDevice;
-
+//vslmdlmsd; lasd
 
 
 public class MainActivity extends ActionBarActivity {
